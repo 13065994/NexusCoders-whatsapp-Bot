@@ -1,7 +1,7 @@
 module.exports = {
-    name: 'NexusCoders-Bot',
+    name: 'NexusCoders-MD',
     owner: process.env.OWNER_NUMBER,
-    timezone: 'Asia/Kolkata',
+    timezone: 'Africa/lagos',
     autoReconnect: true,
     autoReconnectInterval: 5000,
     logLevel: 'info',
